@@ -1,5 +1,5 @@
 # Coffee-Chain-Dashboard
-🚀 Excited to share my latest project on LinkedIn! 🚀
+🚀 Excited to share my latest project ! 🚀
 I've been working on a Netflix Data Analysis Dashboard and am excited to finally share it. Here's a quick overview:
 🔹 Project Description: This dashboard provides an in-depth analysis of Netflix's content library. It visualizes data on movie and TV show trends, ratings, geographic distribution, and genre popularity.
 🔹 Key features:
